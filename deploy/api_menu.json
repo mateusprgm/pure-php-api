@@ -3,83 +3,83 @@
         "id": "101",
         "title": "A Enap",
         "alias": "a-enap",
-        "level": "level",
+        "level": "1",
         "parent_id": "1",
         "subItems": [
             {
                 "id": "103",
                 "title": "Quem Somos",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "104",
                 "title": "A\u00e7\u00f5es e Programas",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "105",
                 "title": "Instala\u00e7\u00f5es",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "106",
                 "title": "Colaboradores",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "107",
                 "title": "Parceiros",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "108",
                 "title": "Fale Conosco",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "109",
                 "title": "Como Chegar",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "128",
                 "title": "Diversidade",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "175",
                 "title": "Legisla\u00e7\u00e3o",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "220",
                 "title": "Premia\u00e7\u00f5es",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             },
             {
                 "id": "248",
                 "title": "Pesquisas",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "101"
             }
@@ -89,13 +89,13 @@
         "id": "103",
         "title": "Quem Somos",
         "alias": "quem-somos",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": [
             {
                 "id": "127",
                 "title": "Presid\u00eancia",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "103"
             }
@@ -105,7 +105,7 @@
         "id": "104",
         "title": "A\u00e7\u00f5es e Programas",
         "alias": "programas-e-acoes",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": []
     },
@@ -113,7 +113,7 @@
         "id": "105",
         "title": "Instala\u00e7\u00f5es",
         "alias": "instalacoes",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": []
     },
@@ -121,20 +121,20 @@
         "id": "106",
         "title": "Colaboradores",
         "alias": "colaboradores",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": [
             {
                 "id": "206",
                 "title": "Banco de Colaboradores",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "106"
             },
             {
                 "id": "207",
                 "title": "Editais",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "106"
             }
@@ -144,20 +144,20 @@
         "id": "107",
         "title": "Parceiros",
         "alias": "parceiros",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": [
             {
                 "id": "224",
                 "title": "Coopera\u00e7\u00f5es Internacionais",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "107"
             },
             {
                 "id": "252",
                 "title": "Coopera\u00e7\u00f5es Nacionais",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "107"
             }
@@ -167,7 +167,7 @@
         "id": "108",
         "title": "Fale Conosco",
         "alias": "fale-conosco",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": []
     },
@@ -175,7 +175,7 @@
         "id": "109",
         "title": "Como Chegar",
         "alias": "como-chegar",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": []
     },
@@ -183,7 +183,7 @@
         "id": "110",
         "title": "Nossos Cursos",
         "alias": "nossos-cursos",
-        "level": "level",
+        "level": "1",
         "parent_id": "1",
         "subItems": []
     },
@@ -191,90 +191,90 @@
         "id": "111",
         "title": "Servi\u00e7os",
         "alias": "servicos",
-        "level": "level",
+        "level": "1",
         "parent_id": "1",
         "subItems": [
             {
                 "id": "131",
                 "title": "Cursos sob demanda",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "133",
                 "title": "Assessoria in Company",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "134",
                 "title": "Assessoria T\u00e9cnica em Inova\u00e7\u00e3o",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "135",
                 "title": "Aquisi\u00e7\u00e3o de Publica\u00e7\u00f5es",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "136",
                 "title": "Biblioteca",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "137",
                 "title": "Reserva de Salas",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "138",
                 "title": "Hospedagem",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "188",
                 "title": "Acesso para usu\u00e1rios Externos SEI",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "195",
                 "title": "Protocolo Eletr\u00f4nico",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "205",
                 "title": "Submiss\u00e3o de casos para Casoteca",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "251",
                 "title": "Concursos",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             },
             {
                 "id": "257",
                 "title": "Validar Certificado",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "111"
             }
@@ -284,7 +284,7 @@
         "id": "113",
         "title": "Acesse sua Conta",
         "alias": "acesse-sua-conta",
-        "level": "level",
+        "level": "1",
         "parent_id": "1",
         "subItems": []
     },
@@ -292,83 +292,83 @@
         "id": "115",
         "title": "Acesso \u00e0 Informa\u00e7\u00e3o",
         "alias": "acesso-a-informacao",
-        "level": "level",
+        "level": "1",
         "parent_id": "1",
         "subItems": [
             {
                 "id": "149",
                 "title": "Institucional",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "151",
                 "title": "Auditorias",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "152",
                 "title": "Conv\u00eanios e Transfer\u00eancias",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "153",
                 "title": "Receitas e Despesas",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "154",
                 "title": "Licita\u00e7\u00f5es e Contratos",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "155",
                 "title": "Servidores",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "156",
                 "title": "Informa\u00e7\u00f5es Classificadas",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "157",
                 "title": "Servi\u00e7o de Informa\u00e7\u00e3o ao Cidad\u00e3o - SIC",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "196",
                 "title": "Dados Abertos",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "197",
                 "title": "Participa\u00e7\u00e3o Social",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             },
             {
                 "id": "198",
                 "title": "Boletim de Pessoal e Atos Administrativos",
-                "alias": "level",
+                "alias": "2",
                 "level": "",
                 "parent_id": "115"
             }
@@ -378,7 +378,7 @@
         "id": "116",
         "title": "Faq",
         "alias": "faq",
-        "level": "level",
+        "level": "1",
         "parent_id": "1",
         "subItems": []
     },
@@ -386,7 +386,7 @@
         "id": "127",
         "title": "Presid\u00eancia",
         "alias": "presidencia",
-        "level": "level",
+        "level": "3",
         "parent_id": "103",
         "subItems": []
     },
@@ -394,7 +394,7 @@
         "id": "128",
         "title": "Diversidade",
         "alias": "diversidade",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": []
     },
@@ -402,13 +402,13 @@
         "id": "131",
         "title": "Cursos sob demanda",
         "alias": "cursos-sob-demanda",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": [
             {
                 "id": "314",
                 "title": "Formul\u00e1rio de Solicita\u00e7\u00e3o Turmas Exclusivas",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "131"
             }
@@ -418,7 +418,7 @@
         "id": "133",
         "title": "Assessoria in Company",
         "alias": "assessoria-in-company",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -426,7 +426,7 @@
         "id": "134",
         "title": "Assessoria T\u00e9cnica em Inova\u00e7\u00e3o",
         "alias": "assessoria-tecnica-em-inovacao",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -434,7 +434,7 @@
         "id": "135",
         "title": "Aquisi\u00e7\u00e3o de Publica\u00e7\u00f5es",
         "alias": "aquisicao-de-publicacoes",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -442,7 +442,7 @@
         "id": "136",
         "title": "Biblioteca",
         "alias": "biblioteca",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -450,7 +450,7 @@
         "id": "137",
         "title": "Reserva de Salas",
         "alias": "reserva-de-salas",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -458,7 +458,7 @@
         "id": "138",
         "title": "Hospedagem",
         "alias": "hospedagem",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -466,13 +466,13 @@
         "id": "149",
         "title": "Institucional",
         "alias": "institucional",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": [
             {
                 "id": "194",
                 "title": "Agendas de Autoridades",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "149"
             }
@@ -482,7 +482,7 @@
         "id": "151",
         "title": "Auditorias",
         "alias": "auditorias",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": []
     },
@@ -490,7 +490,7 @@
         "id": "152",
         "title": "Conv\u00eanios e Transfer\u00eancias",
         "alias": "convenios",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": []
     },
@@ -498,7 +498,7 @@
         "id": "153",
         "title": "Receitas e Despesas",
         "alias": "despesas",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": []
     },
@@ -506,34 +506,34 @@
         "id": "154",
         "title": "Licita\u00e7\u00f5es e Contratos",
         "alias": "licitacoes-e-contratos",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": [
             {
                 "id": "158",
                 "title": "Licita\u00e7\u00f5es",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "154"
             },
             {
                 "id": "159",
                 "title": "Contratos",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "154"
             },
             {
                 "id": "166",
                 "title": "Pagamento de Docentes",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "154"
             },
             {
                 "id": "167",
                 "title": "Ata de Registros de Pre\u00e7os",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "154"
             }
@@ -543,7 +543,7 @@
         "id": "155",
         "title": "Servidores",
         "alias": "servidores",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": []
     },
@@ -551,7 +551,7 @@
         "id": "156",
         "title": "Informa\u00e7\u00f5es Classificadas",
         "alias": "informacoes-classificadas",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": []
     },
@@ -559,7 +559,7 @@
         "id": "157",
         "title": "Servi\u00e7o de Informa\u00e7\u00e3o ao Cidad\u00e3o - SIC",
         "alias": "servico-de-informacao-ao-cidadao-sic",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": []
     },
@@ -567,41 +567,41 @@
         "id": "158",
         "title": "Licita\u00e7\u00f5es",
         "alias": "licitacoes",
-        "level": "level",
+        "level": "3",
         "parent_id": "154",
         "subItems": [
             {
                 "id": "199",
                 "title": "Licita\u00e7\u00f5es 2015",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "158"
             },
             {
                 "id": "200",
                 "title": "Licita\u00e7\u00f5es 2016",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "158"
             },
             {
                 "id": "201",
                 "title": "Licita\u00e7\u00f5es 2017",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "158"
             },
             {
                 "id": "202",
                 "title": "Licita\u00e7\u00f5es 2018",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "158"
             },
             {
                 "id": "258",
                 "title": "Licita\u00e7\u00f5es 2019",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "158"
             }
@@ -611,55 +611,55 @@
         "id": "159",
         "title": "Contratos",
         "alias": "contratos",
-        "level": "level",
+        "level": "3",
         "parent_id": "154",
         "subItems": [
             {
                 "id": "160",
                 "title": "Contratos de 2013",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "159"
             },
             {
                 "id": "161",
                 "title": "Contratos de 2014",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "159"
             },
             {
                 "id": "162",
                 "title": "Contratos de 2015",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "159"
             },
             {
                 "id": "163",
                 "title": "Contratos de 2016",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "159"
             },
             {
                 "id": "164",
                 "title": "Contratos de 2017",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "159"
             },
             {
                 "id": "165",
                 "title": "Contratos de 2018",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "159"
             },
             {
                 "id": "282",
                 "title": "Contratos de 2019",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "159"
             }
@@ -669,7 +669,7 @@
         "id": "160",
         "title": "Contratos de 2013",
         "alias": "contratos-de-2013",
-        "level": "level",
+        "level": "4",
         "parent_id": "159",
         "subItems": []
     },
@@ -677,7 +677,7 @@
         "id": "161",
         "title": "Contratos de 2014",
         "alias": "contratos-de-2014",
-        "level": "level",
+        "level": "4",
         "parent_id": "159",
         "subItems": []
     },
@@ -685,7 +685,7 @@
         "id": "162",
         "title": "Contratos de 2015",
         "alias": "contratos-de-2015",
-        "level": "level",
+        "level": "4",
         "parent_id": "159",
         "subItems": []
     },
@@ -693,7 +693,7 @@
         "id": "163",
         "title": "Contratos de 2016",
         "alias": "contratos-de-2016",
-        "level": "level",
+        "level": "4",
         "parent_id": "159",
         "subItems": []
     },
@@ -701,7 +701,7 @@
         "id": "164",
         "title": "Contratos de 2017",
         "alias": "contratos-de-2017",
-        "level": "level",
+        "level": "4",
         "parent_id": "159",
         "subItems": []
     },
@@ -709,7 +709,7 @@
         "id": "165",
         "title": "Contratos de 2018",
         "alias": "contratos-de-2018",
-        "level": "level",
+        "level": "4",
         "parent_id": "159",
         "subItems": []
     },
@@ -717,27 +717,27 @@
         "id": "166",
         "title": "Pagamento de Docentes",
         "alias": "pagamento-de-docentes",
-        "level": "level",
+        "level": "3",
         "parent_id": "154",
         "subItems": [
             {
                 "id": "174",
                 "title": "Pagamento de Docentes 2011",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "166"
             },
             {
                 "id": "181",
                 "title": "Pagamento de Docentes 2012",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "166"
             },
             {
                 "id": "182",
                 "title": "Pagamento de Docentes 2013",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "166"
             }
@@ -747,13 +747,13 @@
         "id": "167",
         "title": "Ata de Registros de Pre\u00e7os",
         "alias": "ata-de-registros-de-precos",
-        "level": "level",
+        "level": "3",
         "parent_id": "154",
         "subItems": [
             {
                 "id": "173",
                 "title": "Atas de 2015",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "167"
             }
@@ -763,7 +763,7 @@
         "id": "173",
         "title": "Atas de 2015",
         "alias": "atas-de-2015",
-        "level": "level",
+        "level": "4",
         "parent_id": "167",
         "subItems": []
     },
@@ -771,7 +771,7 @@
         "id": "174",
         "title": "Pagamento de Docentes 2011",
         "alias": "pagamento-de-docentes-2011",
-        "level": "level",
+        "level": "4",
         "parent_id": "166",
         "subItems": []
     },
@@ -779,7 +779,7 @@
         "id": "175",
         "title": "Legisla\u00e7\u00e3o",
         "alias": "legislacao",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": []
     },
@@ -787,7 +787,7 @@
         "id": "181",
         "title": "Pagamento de Docentes 2012",
         "alias": "pagamento-de-docentes-2012",
-        "level": "level",
+        "level": "4",
         "parent_id": "166",
         "subItems": []
     },
@@ -795,7 +795,7 @@
         "id": "182",
         "title": "Pagamento de Docentes 2013",
         "alias": "pagamento-de-docentes-2013",
-        "level": "level",
+        "level": "4",
         "parent_id": "166",
         "subItems": []
     },
@@ -803,7 +803,7 @@
         "id": "188",
         "title": "Acesso para usu\u00e1rios Externos SEI",
         "alias": "acesso-para-usuarios-externos-sei",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -811,7 +811,7 @@
         "id": "194",
         "title": "Agendas de Autoridades",
         "alias": "agendas-de-autoridades",
-        "level": "level",
+        "level": "3",
         "parent_id": "149",
         "subItems": []
     },
@@ -819,7 +819,7 @@
         "id": "195",
         "title": "Protocolo Eletr\u00f4nico",
         "alias": "protocolo-eletronico",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -827,7 +827,7 @@
         "id": "196",
         "title": "Dados Abertos",
         "alias": "dados-abertos",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": []
     },
@@ -835,7 +835,7 @@
         "id": "197",
         "title": "Participa\u00e7\u00e3o Social",
         "alias": "participacao-social",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": []
     },
@@ -843,7 +843,7 @@
         "id": "198",
         "title": "Boletim de Pessoal e Atos Administrativos",
         "alias": "boletim-de-pessoal-e-atos-administrativos",
-        "level": "level",
+        "level": "2",
         "parent_id": "115",
         "subItems": []
     },
@@ -851,7 +851,7 @@
         "id": "199",
         "title": "Licita\u00e7\u00f5es 2015",
         "alias": "licitacoes-2015",
-        "level": "level",
+        "level": "4",
         "parent_id": "158",
         "subItems": []
     },
@@ -859,7 +859,7 @@
         "id": "200",
         "title": "Licita\u00e7\u00f5es 2016",
         "alias": "licitacoes-2016",
-        "level": "level",
+        "level": "4",
         "parent_id": "158",
         "subItems": []
     },
@@ -867,7 +867,7 @@
         "id": "201",
         "title": "Licita\u00e7\u00f5es 2017",
         "alias": "licitacoes-2017",
-        "level": "level",
+        "level": "4",
         "parent_id": "158",
         "subItems": []
     },
@@ -875,7 +875,7 @@
         "id": "202",
         "title": "Licita\u00e7\u00f5es 2018",
         "alias": "licitacoes-2018",
-        "level": "level",
+        "level": "4",
         "parent_id": "158",
         "subItems": []
     },
@@ -883,7 +883,7 @@
         "id": "204",
         "title": "Processos Seletivos Encerrados",
         "alias": "processos-seletivos-encerrados",
-        "level": "level",
+        "level": "4",
         "parent_id": "207",
         "subItems": []
     },
@@ -891,7 +891,7 @@
         "id": "205",
         "title": "Submiss\u00e3o de casos para Casoteca",
         "alias": "submissao-de-casos-para-casoteca",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -899,7 +899,7 @@
         "id": "206",
         "title": "Banco de Colaboradores",
         "alias": "banco-de-colaboradores",
-        "level": "level",
+        "level": "3",
         "parent_id": "106",
         "subItems": []
     },
@@ -907,20 +907,20 @@
         "id": "207",
         "title": "Editais",
         "alias": "editais",
-        "level": "level",
+        "level": "3",
         "parent_id": "106",
         "subItems": [
             {
                 "id": "204",
                 "title": "Processos Seletivos Encerrados",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "207"
             },
             {
                 "id": "209",
                 "title": "Editais 2018",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "207"
             }
@@ -930,7 +930,7 @@
         "id": "209",
         "title": "Editais 2018",
         "alias": "editais-2018",
-        "level": "level",
+        "level": "4",
         "parent_id": "207",
         "subItems": []
     },
@@ -938,7 +938,7 @@
         "id": "220",
         "title": "Premia\u00e7\u00f5es",
         "alias": "premiacoes",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": []
     },
@@ -946,27 +946,27 @@
         "id": "224",
         "title": "Coopera\u00e7\u00f5es Internacionais",
         "alias": "cooperacoes-internacionais",
-        "level": "level",
+        "level": "3",
         "parent_id": "107",
         "subItems": [
             {
                 "id": "244",
                 "title": "Divulga\u00e7\u00e3o da rela\u00e7\u00e3o de candidatos selecionados",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "224"
             },
             {
                 "id": "249",
                 "title": "Folder de divulga\u00e7\u00e3o do Mestrado",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "224"
             },
             {
                 "id": "250",
                 "title": "info-session-universidade-de-columbia-sipa",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "224"
             }
@@ -976,7 +976,7 @@
         "id": "244",
         "title": "Divulga\u00e7\u00e3o da rela\u00e7\u00e3o de candidatos selecionados",
         "alias": "divulgacao-da-relacao-de-candidatos-selecionados-2",
-        "level": "level",
+        "level": "4",
         "parent_id": "224",
         "subItems": []
     },
@@ -984,13 +984,13 @@
         "id": "248",
         "title": "Pesquisas",
         "alias": "pesquisa-2",
-        "level": "level",
+        "level": "2",
         "parent_id": "101",
         "subItems": [
             {
                 "id": "298",
                 "title": "Sele\u00e7\u00e3o para gaeg",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "248"
             }
@@ -1000,7 +1000,7 @@
         "id": "249",
         "title": "Folder de divulga\u00e7\u00e3o do Mestrado",
         "alias": "folder-de-divulgacao-do-mestrado",
-        "level": "level",
+        "level": "4",
         "parent_id": "224",
         "subItems": []
     },
@@ -1008,7 +1008,7 @@
         "id": "250",
         "title": "info-session-universidade-de-columbia-sipa",
         "alias": "info-session-universidade-de-columbia-sipa",
-        "level": "level",
+        "level": "4",
         "parent_id": "224",
         "subItems": []
     },
@@ -1016,27 +1016,27 @@
         "id": "251",
         "title": "Concursos",
         "alias": "concurso",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": [
             {
                 "id": "262",
                 "title": "Novos e Inscri\u00e7\u00f5es Abertas",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "251"
             },
             {
                 "id": "264",
                 "title": "Atendimento",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "251"
             },
             {
                 "id": "265",
                 "title": "Em andamento",
-                "alias": "level",
+                "alias": "3",
                 "level": "",
                 "parent_id": "251"
             }
@@ -1046,27 +1046,27 @@
         "id": "252",
         "title": "Coopera\u00e7\u00f5es Nacionais",
         "alias": "cooperacoes-nacionais",
-        "level": "level",
+        "level": "3",
         "parent_id": "107",
         "subItems": [
             {
                 "id": "253",
                 "title": "Primeiro Termo Aditivo - Acordo INSS",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "252"
             },
             {
                 "id": "254",
                 "title": "Primeiro Termo Aditivo - Acordo C\u00e2mara dos Deputados",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "252"
             },
             {
                 "id": "255",
                 "title": "Segundo Termo Aditivo - Acordo C\u00e2mara dos Deputados",
-                "alias": "level",
+                "alias": "4",
                 "level": "",
                 "parent_id": "252"
             }
@@ -1076,7 +1076,7 @@
         "id": "253",
         "title": "Primeiro Termo Aditivo - Acordo INSS",
         "alias": "primeiro-termo-aditivo-acordo-inss",
-        "level": "level",
+        "level": "4",
         "parent_id": "252",
         "subItems": []
     },
@@ -1084,7 +1084,7 @@
         "id": "254",
         "title": "Primeiro Termo Aditivo - Acordo C\u00e2mara dos Deputados",
         "alias": "primeiro-termo-aditivo-acordo-camara-dos-deputados",
-        "level": "level",
+        "level": "4",
         "parent_id": "252",
         "subItems": []
     },
@@ -1092,7 +1092,7 @@
         "id": "255",
         "title": "Segundo Termo Aditivo - Acordo C\u00e2mara dos Deputados",
         "alias": "segundo-termo-aditivo-acordo-camara-dos-deputados",
-        "level": "level",
+        "level": "4",
         "parent_id": "252",
         "subItems": []
     },
@@ -1100,7 +1100,7 @@
         "id": "257",
         "title": "Validar Certificado",
         "alias": "validar-certificado",
-        "level": "level",
+        "level": "2",
         "parent_id": "111",
         "subItems": []
     },
@@ -1108,7 +1108,7 @@
         "id": "258",
         "title": "Licita\u00e7\u00f5es 2019",
         "alias": "licitacoes-2019",
-        "level": "level",
+        "level": "4",
         "parent_id": "158",
         "subItems": []
     },
@@ -1116,7 +1116,7 @@
         "id": "260",
         "title": "Processo Seletivo GAEG 2018 - Jornalista - N\u00edvel Superior",
         "alias": "processo-seletivo-gaeg-2018-jornalista-nivel-superior",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1124,7 +1124,7 @@
         "id": "261",
         "title": "2018",
         "alias": "2018",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1132,7 +1132,7 @@
         "id": "262",
         "title": "Novos e Inscri\u00e7\u00f5es Abertas",
         "alias": "novos-e-inscricoes-abertas",
-        "level": "level",
+        "level": "3",
         "parent_id": "251",
         "subItems": []
     },
@@ -1140,7 +1140,7 @@
         "id": "264",
         "title": "Atendimento",
         "alias": "atendimento",
-        "level": "level",
+        "level": "3",
         "parent_id": "251",
         "subItems": []
     },
@@ -1148,7 +1148,7 @@
         "id": "265",
         "title": "Em andamento",
         "alias": "em-andamento",
-        "level": "level",
+        "level": "3",
         "parent_id": "251",
         "subItems": []
     },
@@ -1156,7 +1156,7 @@
         "id": "266",
         "title": "2017",
         "alias": "2017",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1164,20 +1164,20 @@
         "id": "267",
         "title": "2016",
         "alias": "2016",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": [
             {
                 "id": "283",
                 "title": "Resultado do Processo Seletivo GAEG",
-                "alias": "level",
+                "alias": "6",
                 "level": "",
                 "parent_id": "267"
             },
             {
                 "id": "284",
                 "title": "Resultado do Processo Seletivo GAEG",
-                "alias": "level",
+                "alias": "6",
                 "level": "",
                 "parent_id": "267"
             }
@@ -1187,7 +1187,7 @@
         "id": "268",
         "title": "2015",
         "alias": "2015",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1195,7 +1195,7 @@
         "id": "269",
         "title": "2014",
         "alias": "2014",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1203,7 +1203,7 @@
         "id": "271",
         "title": "2013",
         "alias": "2013",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1211,7 +1211,7 @@
         "id": "272",
         "title": "2012",
         "alias": "2012",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1219,7 +1219,7 @@
         "id": "273",
         "title": "2011",
         "alias": "2011",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1227,7 +1227,7 @@
         "id": "274",
         "title": "2010",
         "alias": "2010",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1235,7 +1235,7 @@
         "id": "275",
         "title": "2009",
         "alias": "2009",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1243,7 +1243,7 @@
         "id": "276",
         "title": "2008",
         "alias": "2008",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1251,7 +1251,7 @@
         "id": "277",
         "title": "2007",
         "alias": "2007",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1259,7 +1259,7 @@
         "id": "278",
         "title": "2006",
         "alias": "2006",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1267,7 +1267,7 @@
         "id": "279",
         "title": "2005",
         "alias": "2005",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1275,7 +1275,7 @@
         "id": "280",
         "title": "2004",
         "alias": "2004",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1283,7 +1283,7 @@
         "id": "281",
         "title": "2003",
         "alias": "2003",
-        "level": "level",
+        "level": "5",
         "parent_id": "259",
         "subItems": []
     },
@@ -1291,7 +1291,7 @@
         "id": "282",
         "title": "Contratos de 2019",
         "alias": "contratos-de-2019",
-        "level": "level",
+        "level": "4",
         "parent_id": "159",
         "subItems": []
     },
@@ -1299,7 +1299,7 @@
         "id": "283",
         "title": "Resultado do Processo Seletivo GAEG",
         "alias": "resultado-do-processo-seletivo-gaeg",
-        "level": "level",
+        "level": "6",
         "parent_id": "267",
         "subItems": []
     },
@@ -1307,7 +1307,7 @@
         "id": "284",
         "title": "Resultado do Processo Seletivo GAEG",
         "alias": "resultado-do-processo-seletivo-gaeg-2",
-        "level": "level",
+        "level": "6",
         "parent_id": "267",
         "subItems": []
     },
@@ -1315,7 +1315,7 @@
         "id": "286",
         "title": "Ouvidoria",
         "alias": "ouvidoria",
-        "level": "level",
+        "level": "1",
         "parent_id": "1",
         "subItems": []
     },
@@ -1323,7 +1323,7 @@
         "id": "298",
         "title": "Sele\u00e7\u00e3o para gaeg",
         "alias": "selecao-para-gaeg",
-        "level": "level",
+        "level": "3",
         "parent_id": "248",
         "subItems": []
     },
@@ -1331,7 +1331,7 @@
         "id": "314",
         "title": "Formul\u00e1rio de Solicita\u00e7\u00e3o Turmas Exclusivas",
         "alias": "turmas-exclusivas",
-        "level": "level",
+        "level": "3",
         "parent_id": "131",
         "subItems": []
     }

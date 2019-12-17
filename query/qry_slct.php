@@ -1,7 +1,7 @@
 <?php require_once("conn/connection.php") ?>
 <?php require_once("interface/interface.php") ?>
 <?php  
-	$qry_lvl1 = "select id, title, alias, 'level', parent_id from enap_menu where menutype = 'menuprincipal' and published = 1;";
+	$qry_lvl1 = "select id, title, alias, `level`, parent_id from enap_menu where menutype = 'menuprincipal' and published = 1;";
 	$qry_lvl1 = @mysqli_query($conn, $qry_lvl1);
 	
 	$obj_list = new dataList();
@@ -16,7 +16,7 @@
 		$data_Obj->level = ($row_lvl1['level']);
 		$data_Obj->parent_id = ($row_lvl1['parent_id']);
 
-		$qry_lvl2 = "select id, title, alias, 'level', parent_id from enap_menu where parent_id = ".$row_lvl1['id']." and published = 1;";
+		$qry_lvl2 = "select id, title, alias, `level`, parent_id from enap_menu where parent_id = ".$row_lvl1['id']." and published = 1;";
 		$qry_lvl2 = @mysqli_query($conn, $qry_lvl2);
 
 
